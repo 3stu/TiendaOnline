@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5f833b9cc477b1163c4187ab"},"isAdmin":true,"name":"Estuardo Fuentes","email":"fuen1402@gmail.com","password":"admin1234","__v":0}
+{"_id":{"$oid":"5f835114c477b1163c4187b0"},"isAdmin":false,"name":"Estuardo2","email":"wfuentess@miumg.edu.gt","password":"admin1234","__v":0}
