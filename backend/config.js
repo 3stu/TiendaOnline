@@ -3,6 +3,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 export default {
+  HOST: process.env.HOST || '0.0.0.0',
   PORT: process.env.PORT || 5000,
   MONGODB_URL: process.env.MONGODB_URL || 'mongodb://localhost/amazona',
   JWT_SECRET: process.env.JWT_SECRET || 'somethingsecret',
